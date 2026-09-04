@@ -12,6 +12,7 @@ build/
 *.class
 *.jar
 
+
 # Environment and secrets
 .env
 .env.*
