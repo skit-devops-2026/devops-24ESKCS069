@@ -1,4 +1,4 @@
-# <Project Name>
+# PlaceTrack
 
 > Replace every angle-bracket placeholder below. The hygiene check in CI will
 > fail until you do.
@@ -7,7 +7,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| <roll> | <name> | <username> |
+| 24ESKCS069 | Aryan Sharma | aryan336542-coder |
 
 ## About
 
@@ -15,8 +15,8 @@
 
 ## Tech stack
 
-- Frontend: <REACT.js>
-- Backend: <NODE.js+EXPRESS.js>
+- Frontend: REACT.js
+- Backend: NODE.js+EXPRESS.js
 - Database: MongoDB
 
 ## Running locally
