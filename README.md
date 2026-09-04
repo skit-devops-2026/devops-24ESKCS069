@@ -14,6 +14,7 @@
 **PlaceTrack** is a web-based platform that helps students manage their placement preparation. It provides tools for tracking goals, subjects, aptitude, DSA, and placement activities in one place.
 
 
+
 ## Tech stack
 
 - Frontend: REACT.js
