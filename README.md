@@ -11,7 +11,8 @@
 
 ## About
 
-<Two or three sentences on what this application does.>
+**PlaceTrack** is a web-based platform that helps students manage their placement preparation. It provides tools for tracking goals, subjects, aptitude, DSA, and placement activities in one place.
+
 
 ## Tech stack
 
@@ -28,7 +29,7 @@ make run
 
 ## Live URL
 
-<Add once M5 is done. Until then, leave as is.>
+Add once M5 is done. Until then, leave as is.
 
 ## Health endpoint
 
