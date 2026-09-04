@@ -11,13 +11,13 @@
 .PHONY: install test build run docker-build docker-up
 
 install:
-	@echo "TODO: install dependencies" && exit 1
+	@echo "No installation required for static HTML/CSS/JS"
 
 test:
-	@echo "TODO: run the test suite" && exit 1
+	npx --yes jest
 
 build:
-	@echo "TODO: build the project" && exit 1
+	@echo "Static build complete"
 
 run:
 	@echo "TODO: start the app locally" && exit 1
