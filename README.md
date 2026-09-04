@@ -19,7 +19,7 @@
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Static / None
-- Database: MongoDB
+- Database: None
 
 ## Running locally
 
