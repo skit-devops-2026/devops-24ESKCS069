@@ -15,9 +15,9 @@
 
 ## Tech stack
 
-- Frontend: <e.g. React>
-- Backend: <e.g. Node.js / Express>
-- Database: <e.g. PostgreSQL>
+- Frontend: <REACT.js>
+- Backend: <NODE.js+EXPRESS.js>
+- Database: <MERN>
 
 ## Running locally
 
