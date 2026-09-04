@@ -17,8 +17,8 @@
 
 ## Tech stack
 
-- Frontend: REACT.js
-- Backend: NODE.js+EXPRESS.js
+- Frontend: HTML, CSS, JavaScript
+- Backend: Static / None
 - Database: MongoDB
 
 ## Running locally
