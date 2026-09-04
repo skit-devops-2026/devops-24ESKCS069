@@ -17,7 +17,7 @@
 
 - Frontend: <REACT.js>
 - Backend: <NODE.js+EXPRESS.js>
-- Database: <MERN>
+- Database: MongoDB
 
 ## Running locally
 
