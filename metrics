@@ -1,0 +1,16 @@
+# HELP http_requests_total Total number of HTTP requests
+# TYPE http_requests_total counter
+http_requests_total{method="GET",handler="/",status="200"} 128
+http_requests_total{method="GET",handler="/health",status="200"} 45
+# HELP app_up Status of PlaceTrack application
+# TYPE app_up gauge
+app_up 1
+# HELP http_request_duration_seconds HTTP request duration
+# TYPE http_request_duration_seconds histogram
+http_request_duration_seconds_bucket{le="0.01"} 95
+http_request_duration_seconds_bucket{le="0.05"} 120
+http_request_duration_seconds_bucket{le="0.1"} 125
+http_request_duration_seconds_bucket{le="0.5"} 128
+http_request_duration_seconds_bucket{le="+Inf"} 128
+http_request_duration_seconds_sum 2.45
+http_request_duration_seconds_count 128
